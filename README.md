@@ -3,20 +3,28 @@ Proyecto integrador perteneciente al tercer semestre de la tecnicatura en progra
 
 ![image](https://github.com/CodeSystem2022/DigiteUnNombre_ProyectoIntegrador/assets/113527033/1f879d5d-42a7-4aea-9a50-68603b4d2496)
 
-✧ Grupo Digite un nombre ✧	✧ Integrantes ✧
-🔒 Balladares María Florencia
-🔒 Campderros Gonzalo
-🔒 Díaz Luciano Gabriel
-🔒 Jurczyszyn María Carolina
-🔒 Núñez Miriam
+### `Somos Digite Un Nombre:`
+
+Integrantes Tercer Semestre : 
+
+:heavy_check_mark: Balladares Maria Florencia
+
+:heavy_check_mark: Campderros Gonzalo
+
+:heavy_check_mark: Diaz Luciano Gabriel
+
+:heavy_check_mark: Jurczyszyn Maria Carolina
+
+:heavy_check_mark: Nuñez Miriam
 
 Descripcion del proyecto:
 
-::::::::::::Proyecto integrador de python::::::::::
-                    Requeriemientos
-            - Proyecto nuevo o anterior
-            - Incluir base de datos SQL o no SQL
-            - Video maximo de 30 minutos
+## ::::::::::::Proyecto integrador de python::::::::::
+
+## Requerimientos
+- Proyecto: Nuevo
+- Base de datos: SQL
+- Duración máxima del video: 30 minutos
 
 En el proyecto lo que decidimos fue utilizar el mismo programa que realizamos tanto en Pseint como en java,
 el cual es un programa destinado a los especialistas en nutrición, al mismo se le decidió agregarle algunas mejoras
@@ -46,6 +54,6 @@ dentro del archivo conexion por los datos necesarios para que puedan conectar:
 
   cualquier duda o consulta, no duden en contactarnos.
 
-  Team Digite un nombre......
+  ## Team Digite un nombre......
 
             
