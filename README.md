@@ -39,7 +39,7 @@ Para aquellos que quieran probar el funcionamiento del mismo deberan tener insta
                 port='5432',
                 database='Nutricion'
 
-  Y la base de datos creada en PostgreSql debería quedar de la siguiente manera:
+  Y la base de datos creada en PostgreSql debería quedar de la siguiente manera :
   
   ![image](https://github.com/CodeSystem2022/DigiteUnNombre_ProyectoIntegrador/assets/113527033/bf24befc-1d13-4194-b34c-cfb4b0b82dd3)
 
